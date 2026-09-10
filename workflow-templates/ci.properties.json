@@ -1,0 +1,7 @@
+{
+  "name": "H-EALTH CI",
+  "description": "CI standard dei prodotti H-EALTH: rileva i servizi modificati e chiama i reusable workflows di H-EALTH/platform.",
+  "iconName": "octicon check-circle",
+  "categories": ["Continuous integration", "Python", "JavaScript"],
+  "filePatterns": ["services/.*", "apps/.*", "compose.yaml"]
+}
