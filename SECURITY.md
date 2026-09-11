@@ -16,4 +16,4 @@ Includi: repository e versione (tag `<prodotto>-vX.Y.Z` o SHA), descrizione, pas
 
 ## Ambito
 
-Tutti i repository dell'organizzazione `H-EALTH`. Le immagini pubblicate su `ghcr.io/h-ealth/*` sono identificate da digest: indica il digest se la segnalazione riguarda un'immagine.
+Tutti i repository dell'organizzazione `H-EALTH`. Gli artefatti pubblicati su `ghcr.io/h-ealth/*` sono identificate da digest: indica il digest se la segnalazione riguarda un'immagine.
