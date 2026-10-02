@@ -8,12 +8,6 @@ Usa **Report a vulnerability** nel tab *Security* del repository interessato (Gi
 
 Includi: repository e versione (tag `<prodotto>-vX.Y.Z` o SHA), descrizione, passi per riprodurre, impatto stimato.
 
-## Cosa aspettarsi
-
-- Conferma di ricezione entro 3 giorni lavorativi.
-- Valutazione e piano di correzione tracciati in Linear come `RSK-___`.
-- La correzione segue il flusso ordinario: PR, CI, review, release taggata. Il documento di rilascio su Drive registra la chiusura.
-
 ## Ambito
 
 Tutti i repository dell'organizzazione `H-EALTH`. Gli artefatti pubblicati su `ghcr.io/h-ealth/*` sono identificate da digest: indica il digest se la segnalazione riguarda un'immagine.
